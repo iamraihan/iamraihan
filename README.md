@@ -1,4 +1,4 @@
-![Github Banner](../iamraihan/asset/raihan-ali-type.gif)
+![Github Banner](asset/raihan-ali-type.gif)
 
 ## Hi,<img src="./asset/hello.gif" width="28px" alt="hi">
 ### I'm Raihan Ali 👋
