@@ -1,6 +1,6 @@
-![Web App Developer](https://i.ibb.co/WFGMt0b/raihan-ali-type.gif)
+![Github Banner](../iamraihan/asset/raihan-ali-type.gif)
 
-## Hi,<img src="https://tenor.com/view/waving-hi-hello-emoji-wave-gif-11366012" width="28px" alt="hi">
+## Hi,<img src="./asset/hello.gif" width="28px" alt="hi">
 ### I'm Raihan Ali 👋
 #### Web App Developer
 
