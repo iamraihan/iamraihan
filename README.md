@@ -1,6 +1,6 @@
 ![Github Banner](asset/raihan-ali-type.gif)
 
-## Hi,<img src="./asset/hello.gif" width="28px" height="20px" alt="hi">
+## Hi,<img src="./asset/hello.gif" width="28px" height="30px" alt="hi">
 
 ### I'm Raihan Ali
 
