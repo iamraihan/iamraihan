@@ -6,14 +6,15 @@
 
 #### Web App Developer
 
-I'm a MERN stack developer looking for a position to utilize my skill & knowledge as well as to learn
-and continuous improvement. I’m a quick learner and good debugger also. I love coding and I want
-teams or leading on my own to achieve the desired goal.
+I'm a full-stack developer looking for a position to utilize my skill & knowledge as well as to learn
+and continuous improvement. I'm a quick learner and always ready to learn new something and
+my mission is to become a successful web developer. Ability to read and understand any
+documentation. Quick thinker/listener and good debugger. Can keep patient until you finish a task
 
 :coffee: &emsp;Connect with me!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/iamraihan)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamraihanali/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imraihanali) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamraihanali) [![stackoverflow Badge](https://img.shields.io/badge/stackoverflow-eb750f?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15541133/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trueraihan@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamraihanali/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imraihanali) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamraihanali) [![stackoverflow Badge](https://img.shields.io/badge/stackoverflow-eb750f?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15541133/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihanali.dev@gmail.com)
 
 :hearts: &emsp;I Love coding and its my passion. <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
