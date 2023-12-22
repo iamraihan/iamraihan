@@ -1,4 +1,4 @@
-![Github Banner](asset/raihan-ali-type.gif)
+![Github Banner](asset/raihan_ali_linkedin_banner.png)
 
 ## Hi,<img src="./asset/hello.gif" width="28px" height="30px" alt="hi">
 
@@ -6,10 +6,9 @@
 
 #### Web App Developer
 
-I'm a full-stack developer looking for a position to utilize my skill & knowledge as well as to learn
-and continuous improvement. I'm a quick learner and always ready to learn new something and
-my mission is to become a successful web developer. Ability to read and understand any
-documentation. Quick thinker/listener and good debugger. Can keep patient until you finish a task
+Experienced JavaScript Engineer with mastery in React.js, Next.js, Redux, TypeScript, NodeJS,
+GraphQL, ES6, ESNext, DOM, BOM, and WEB API sorcery. Your passion lies in conjuring seamless
+user experiences, and effortlessly navigating the digital wilds.
 
 :coffee: &emsp;Connect with me!
 
