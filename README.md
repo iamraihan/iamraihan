@@ -6,7 +6,7 @@
 
 #### Web App Developer
 
-JavaScript Engineer with experience in React.js, Next.js, Redux, TypeScript, NodeJS, GraphQL, ES6, NestJS, PostgreSQL, WEB API, and Docker. Your passion lies in conjuring seamless user experiences and effortlessly navigating the digital wilds.
+JavaScript Engineer with experience in React.js, Next.js, Redux, TypeScript, NodeJS, PHP, GraphQL, ES6, NestJS, PostgreSQL, WEB API, and Docker. Your passion lies in conjuring seamless user experiences and effortlessly navigating the digital wilds.
 
 :coffee: &emsp;Connect with me!
 
